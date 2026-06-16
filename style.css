@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#btnProduk {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btnProduk:hover {
+    background-color: #0056b3;
+}
+
+#paparan {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+#paparan h3 {
+    color: #007bff;
+    margin-bottom: 5px;
+}
+
+#paparan p {
+    color: #555;
+    line-height: 1.5;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 15px 0;
+}

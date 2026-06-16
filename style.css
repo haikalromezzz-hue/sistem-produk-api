@@ -13,7 +13,7 @@ h1 {
     display: block;
     margin: 20px auto;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #0BDA51;
     color: white;
     border: none;
     border-radius: 5px;
@@ -21,7 +21,7 @@ h1 {
 }
 
 #btnProduk:hover {
-    background-color: #0056b3;
+    background-color: #0BDA51;
 }
 
 #paparan {
@@ -30,7 +30,7 @@ h1 {
 }
 
 #paparan h3 {
-    color: #007bff;
+    color: #0BDA51;
     margin-bottom: 5px;
 }
 
